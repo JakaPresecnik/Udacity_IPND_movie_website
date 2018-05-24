@@ -22,8 +22,8 @@ class Movie():
         self.poster_image_url = poster_image
         self.trailer_youtube_url = trailer_youtube
         self.year_released = year_released
-        self.director = director # MODIFY this in fresh_tomatoes!
-        self.screenwriter = writer # MODIFY this in fresh_tomatoes!
+        self.director = director
+        self.screenwriter = writer 
         
     def show_trailer(self):
         
