@@ -1,5 +1,10 @@
+"""Stores movies detail and opens them on a website."""
+
 import media
 import fresh_tomatoes
+
+"""Creates twelve Movie objects, initialising these objects with title, storyline,
+    poster image link, video trailer link, release date, director and screenwritter/s."""
 
 fight_club = media.Movie('Fight Club', 
 '\'An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soapmaker, forming an underground fight club that evolves into something much, much more.\'',
@@ -97,6 +102,8 @@ shutter_island = media.Movie('Shutter Island',
 'Martin Scorsese',
 ' Laeta Kalogridis (screenplay), Dennis Lehane (novel)')
 
+""" Stores all the Movie objects in this list. """
 movies = [fight_club, donnie_darko, lock_stock_and_two_smoking_barrels, crank, twelve_monkeys,  snatch, the_departed, the_usual_suspect, inside_man, stalker, black_swan, shutter_island]
 
+""" Open the movie website in the user's browser, featuring all the movies on the list. """
 fresh_tomatoes.open_movies_page(movies)
