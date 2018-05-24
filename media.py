@@ -1,5 +1,6 @@
+"""Defines class Movie, that contains details of the movie."""
+
 import webbrowser
-""" Imports a module of functions from pythons's standard library"""
 
 class Movie():
     """ Class for representing a movie """
