@@ -1,2 +1,11 @@
-# Create a movie website project
-This is a project from part 4 of Udacity's Intro to nanogegree program. To use it you must first download Python interpreter then open the entertainment_center.py and run it in the interpreter. You can download Python on this site: https://www.python.org/downloads/.
+# CREATE A MOVIE WEBSITE
+
+- This is a project for Udacity's Intro to Programming Nanogegree (IPND).
+  - It is the 4th project for IPND.
+
+#How to use it:
+- First download Python interpreter (https://www.python.org/downloads/)
+- Open the entertainment_center.py and run it in the interpreter.
+- An HTML file should be created.
+
+I could put the HTML file inside, but would make no sence as this project should demonstrate the knowing of Python language.
