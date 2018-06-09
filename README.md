@@ -9,3 +9,11 @@
 - An HTML file should be created.
 
 I could put the HTML file inside, but would make no sence as this project should demonstrate the knowing of Python language.
+
+# .zip file contains:
+- README.md
+- entertainment_center.py
+- fresh_tomatoes.py
+- media.py
+- folder img:
+  - cinema-canvas.jpg
