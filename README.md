@@ -1,6 +1,6 @@
 # CREATE A MOVIE WEBSITE
 
-- This is a project for Udacity's Intro to Programming Nanogegree (IPND).
+- This is a project for **Udacity**'s **Intro to Programming** Nanogegree (IPND).
   - It is the 4th project for IPND.
 
 ## How to use it:
